@@ -1,0 +1,769 @@
+{
+  "statewide": {
+    "raceTitle": "Governor Recall - Statewide Results",
+    "Reporting": "76.8% (13,961 of 18,185) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:25 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "3136807",
+        "yesPercent": "35.3",
+        "noVotes": "5753093",
+        "noPercent": "64.7"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Governor Recall - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:11 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "60716",
+        "yesPercent": "17.5",
+        "noVotes": "287014",
+        "noPercent": "82.5"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Governor Recall - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:49 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "218",
+        "yesPercent": "39.1",
+        "noVotes": "340",
+        "noPercent": "60.9"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Governor Recall - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "September 14, 2021, 8:31 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "10971",
+        "yesPercent": "63.1",
+        "noVotes": "6411",
+        "noPercent": "36.9"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Governor Recall - Butte Results",
+    "Reporting": "100.0% (156 of 156) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:18 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "35182",
+        "yesPercent": "52.5",
+        "noVotes": "31774",
+        "noPercent": "47.5"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Governor Recall - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:35 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "11450",
+        "yesPercent": "61.7",
+        "noVotes": "7106",
+        "noPercent": "38.3"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Governor Recall - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:07 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "2434",
+        "yesPercent": "62.9",
+        "noVotes": "1436",
+        "noPercent": "37.1"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Governor Recall - Contra Costa Results",
+    "Reporting": "100.0% (958 of 958) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:07 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "92905",
+        "yesPercent": "26.9",
+        "noVotes": "252879",
+        "noPercent": "73.1"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Governor Recall - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "September 14, 2021, 9:30 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "4198",
+        "yesPercent": "58.0",
+        "noVotes": "3038",
+        "noPercent": "42.0"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Governor Recall - El Dorado Results",
+    "Reporting": "100.0% (103 of 103) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:23 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "37723",
+        "yesPercent": "55.1",
+        "noVotes": "30715",
+        "noPercent": "44.9"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Governor Recall - Fresno Results",
+    "Reporting": "100.0% (279 of 279) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:15 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "90181",
+        "yesPercent": "50.2",
+        "noVotes": "89502",
+        "noPercent": "49.8"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Governor Recall - Glenn Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:01 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "4393",
+        "yesPercent": "69.4",
+        "noVotes": "1941",
+        "noPercent": "30.6"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Governor Recall - Humboldt Results",
+    "Reporting": "100.0% (47 of 47) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:49 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "12772",
+        "yesPercent": "34.1",
+        "noVotes": "24669",
+        "noPercent": "65.9"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Governor Recall - Imperial Results",
+    "Reporting": "100.0% (219 of 219) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:47 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "5572",
+        "yesPercent": "38.7",
+        "noVotes": "8830",
+        "noPercent": "61.3"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Governor Recall - Inyo Results",
+    "Reporting": "100.0% (20 of 20) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:58 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "2514",
+        "yesPercent": "50.8",
+        "noVotes": "2431",
+        "noPercent": "49.2"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Governor Recall - Kern Results",
+    "Reporting": "86.7% (630 of 727) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:42 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "49347",
+        "yesPercent": "57.1",
+        "noVotes": "37075",
+        "noPercent": "42.9"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Governor Recall - Kings Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:07 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "14828",
+        "yesPercent": "62.8",
+        "noVotes": "8799",
+        "noPercent": "37.2"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Governor Recall - Lake Results",
+    "Reporting": "0.0% (0 of 70) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:56 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "3308",
+        "yesPercent": "37.5",
+        "noVotes": "5508",
+        "noPercent": "62.5"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Governor Recall - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "September 14, 2021, 8:59 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "6590",
+        "yesPercent": "82.9",
+        "noVotes": "1357",
+        "noPercent": "17.1"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Governor Recall - Los Angeles Results",
+    "Reporting": "100.0% (2,799 of 2,799) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:15 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "576474",
+        "yesPercent": "27.3",
+        "noVotes": "1536428",
+        "noPercent": "72.7"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Governor Recall - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:49 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "18271",
+        "yesPercent": "58.9",
+        "noVotes": "12757",
+        "noPercent": "41.1"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Governor Recall - Marin Results",
+    "Reporting": "99.0% (103 of 104) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:17 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "14860",
+        "yesPercent": "15.7",
+        "noVotes": "79594",
+        "noPercent": "84.3"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Governor Recall - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "September 14, 2021, 9:08 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "4572",
+        "yesPercent": "59.7",
+        "noVotes": "3086",
+        "noPercent": "40.3"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Governor Recall - Mendocino Results",
+    "Reporting": "0.0% (0 of 250) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:14 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "5617",
+        "yesPercent": "30.2",
+        "noVotes": "12955",
+        "noPercent": "69.8"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Governor Recall - Merced Results",
+    "Reporting": "100.0% (269 of 269) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:47 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "18130",
+        "yesPercent": "49.9",
+        "noVotes": "18168",
+        "noPercent": "50.1"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Governor Recall - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:02 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "2505",
+        "yesPercent": "78.0",
+        "noVotes": "706",
+        "noPercent": "22.0"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Governor Recall - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:15 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "1540",
+        "yesPercent": "42.6",
+        "noVotes": "2074",
+        "noPercent": "57.4"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Governor Recall - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:39 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "24456",
+        "yesPercent": "29.1",
+        "noVotes": "59525",
+        "noPercent": "70.9"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Governor Recall - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:57 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "11098",
+        "yesPercent": "29.5",
+        "noVotes": "26526",
+        "noPercent": "70.5"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Governor Recall - Nevada Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:01 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "17277",
+        "yesPercent": "42.3",
+        "noVotes": "23519",
+        "noPercent": "57.7"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Governor Recall - Orange Results",
+    "Reporting": "100.0% (1,801 of 1,801) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:53 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "418362",
+        "yesPercent": "47.4",
+        "noVotes": "464164",
+        "noPercent": "52.6"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Governor Recall - Placer Results",
+    "Reporting": "100.0% (265 of 265) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:07 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "59059",
+        "yesPercent": "51.1",
+        "noVotes": "56455",
+        "noPercent": "48.9"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Governor Recall - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "September 14, 2021, 8:19 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "5106",
+        "yesPercent": "62.9",
+        "noVotes": "3008",
+        "noPercent": "37.1"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Governor Recall - Riverside Results",
+    "Reporting": "86.2% (658 of 763) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:29 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "228225",
+        "yesPercent": "46.8",
+        "noVotes": "259623",
+        "noPercent": "53.2"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Governor Recall - Sacramento Results",
+    "Reporting": "100.0% (602 of 602) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:17 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "110502",
+        "yesPercent": "36.0",
+        "noVotes": "196291",
+        "noPercent": "64.0"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Governor Recall - San Benito Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:09 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "6407",
+        "yesPercent": "40.8",
+        "noVotes": "9295",
+        "noPercent": "59.2"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Governor Recall - San Bernardino Results",
+    "Reporting": "41.3% (723 of 1,749) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:05 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "149484",
+        "yesPercent": "44.4",
+        "noVotes": "187018",
+        "noPercent": "55.6"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Governor Recall - San Diego Results",
+    "Reporting": "0.0% (0 of 1,825) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:35 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "348917",
+        "yesPercent": "40.7",
+        "noVotes": "507982",
+        "noPercent": "59.3"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Governor Recall - San Francisco Results",
+    "Reporting": "100.0% (611 of 611) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:11 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "35571",
+        "yesPercent": "13.3",
+        "noVotes": "231861",
+        "noPercent": "86.7"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Governor Recall - San Joaquin Results",
+    "Reporting": "100.0% (269 of 269) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:52 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "52479",
+        "yesPercent": "44.0",
+        "noVotes": "66752",
+        "noPercent": "56.0"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Governor Recall - San Luis Obispo Results",
+    "Reporting": "24.7% (23 of 93) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:21 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "21142",
+        "yesPercent": "39.6",
+        "noVotes": "32235",
+        "noPercent": "60.4"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Governor Recall - San Mateo Results",
+    "Reporting": "100.0% (338 of 338) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:25 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "46076",
+        "yesPercent": "20.9",
+        "noVotes": "174757",
+        "noPercent": "79.1"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Governor Recall - Santa Barbara Results",
+    "Reporting": "100.0% (115 of 115) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:29 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "36713",
+        "yesPercent": "35.0",
+        "noVotes": "68185",
+        "noPercent": "65.0"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Governor Recall - Santa Clara Results",
+    "Reporting": "100.0% (509 of 509) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:03 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "116687",
+        "yesPercent": "24.1",
+        "noVotes": "367471",
+        "noPercent": "75.9"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Governor Recall - Santa Cruz Results",
+    "Reporting": "100.0% (85 of 85) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:05 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "15004",
+        "yesPercent": "19.8",
+        "noVotes": "60654",
+        "noPercent": "80.2"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Governor Recall - Shasta Results",
+    "Reporting": "100.0% (98 of 98) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:23 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "30932",
+        "yesPercent": "66.3",
+        "noVotes": "15726",
+        "noPercent": "33.7"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Governor Recall - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "September 14, 2021, 8:43 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "903",
+        "yesPercent": "61.9",
+        "noVotes": "555",
+        "noPercent": "38.1"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Governor Recall - Siskiyou Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:59 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "8257",
+        "yesPercent": "58.7",
+        "noVotes": "5811",
+        "noPercent": "41.3"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Governor Recall - Solano Results",
+    "Reporting": "100.0% (187 of 187) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:13 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "42336",
+        "yesPercent": "35.7",
+        "noVotes": "76235",
+        "noPercent": "64.3"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Governor Recall - Sonoma Results",
+    "Reporting": "100.0% (324 of 324) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:59 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "31939",
+        "yesPercent": "22.1",
+        "noVotes": "112264",
+        "noPercent": "77.9"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Governor Recall - Stanislaus Results",
+    "Reporting": "100.0% (87 of 87) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:13 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "54507",
+        "yesPercent": "51.7",
+        "noVotes": "50929",
+        "noPercent": "48.3"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Governor Recall - Sutter Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "September 14, 2021, 8:44 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "11114",
+        "yesPercent": "59.2",
+        "noVotes": "7664",
+        "noPercent": "40.8"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Governor Recall - Tehama Results",
+    "Reporting": "100.0% (33 of 33) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:08 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "5721",
+        "yesPercent": "73.8",
+        "noVotes": "2035",
+        "noPercent": "26.2"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Governor Recall - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "September 14, 2021, 8:12 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "2079",
+        "yesPercent": "54.3",
+        "noVotes": "1747",
+        "noPercent": "45.7"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Governor Recall - Tulare Results",
+    "Reporting": "0.0% (0 of 83) precincts reporting",
+    "ReportingTime": "September 14, 2021, 8:34 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "35307",
+        "yesPercent": "55.3",
+        "noVotes": "28588",
+        "noPercent": "44.7"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Governor Recall - Tuolumne Results",
+    "Reporting": "100.0% (41 of 41) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:01 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "14148",
+        "yesPercent": "60.4",
+        "noVotes": "9267",
+        "noPercent": "39.6"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Governor Recall - Ventura Results",
+    "Reporting": "0.0% (0 of 697) precincts reporting",
+    "ReportingTime": "September 14, 2021, 11:15 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "86592",
+        "yesPercent": "38.6",
+        "noVotes": "137559",
+        "noPercent": "61.4"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Governor Recall - Yolo Results",
+    "Reporting": "100.0% (32 of 32) precincts reporting",
+    "ReportingTime": "September 15, 2021, 12:25 a.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "15052",
+        "yesPercent": "28.6",
+        "noVotes": "37591",
+        "noPercent": "71.4"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Governor Recall - Yuba Results",
+    "Reporting": "100.0% (36 of 36) precincts reporting",
+    "ReportingTime": "September 14, 2021, 10:39 p.m.",
+    "governor-recall": [
+      {
+        "yesVotes": "8084",
+        "yesPercent": "60.8",
+        "noVotes": "5208",
+        "noPercent": "39.2"
+      }
+    ]
+  }
+}
